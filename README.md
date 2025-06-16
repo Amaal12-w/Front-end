@@ -19,7 +19,7 @@ The project was part of a **workshop**, and this is what I came up with at the e
 ---
 
 ## 🏆 **Certificate**
-> [🔗 View certificate](https://github.com/user-attachments/files/20764169/Frontend.1.pdf)
+> (https://github.com/user-attachments/files/20764169/Frontend.1.pdf)
 
 ---
 
