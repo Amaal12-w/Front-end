@@ -12,8 +12,8 @@ The project was part of a **workshop**, and this is what I came up with at the e
 ---
 
 ## 🎥 **Project Video**
-> [🔗 Watch the video](put_your_video_link_here)
-> https://github.com/user-attachments/assets/0a1e90e3-3799-4e0b-a0fd-172a3587a929
+> [🔗 Watch the video](https://github.com/user-attachments/assets/14e19bfe-f856-41e1-9f4c-faf7d824ce3c
+)
 ---
 
 ## 🏆 **Certificate**
