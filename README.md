@@ -12,7 +12,7 @@ The project was part of a **workshop**, and this is what I came up with at the e
 ---
 
 ## 🎥 **Project Video**
-> [🔗 Watch the video]https://github.com/user-attachments/assets/14e19bfe-f856-41e1-9f4c-faf7d824ce3c
+> [🔗 Watch the video](https://github.com/user-attachments/assets/14e19bfe-f856-41e1-9f4c-faf7d824ce3c)
 
 
 
