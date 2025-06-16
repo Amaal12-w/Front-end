@@ -17,7 +17,8 @@ The project was part of a **workshop**, and this is what I came up with at the e
 ---
 
 ## 🏆 **Certificate**
-> [🔗 View certificate](https://github.com/user-attachments/files/20764012/Frontend.1.pdf)
+> [🔗 View certificate]((https://github.com/user-attachments/files/20764103/Frontend.1.pdf)
+)
 
 ---
 
