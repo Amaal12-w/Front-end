@@ -6,8 +6,6 @@ The project was part of a **workshop**, and this is what I came up with at the e
 
 ---
 
-## 🚀 **Project Link**
-> [🔗 View the project](file:///D:/html%20projects/project1/practice.html#ContactUs)
 
 ---
 
