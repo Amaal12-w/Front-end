@@ -19,8 +19,7 @@ The project was part of a **workshop**, and this is what I came up with at the e
 ---
 
 ## 🏆 **Certificate**
-[Frontend  (1).pdf](https://github.com/user-attachments/files/20764169/Frontend.1.pdf)
----
+![Image](https://github.com/user-attachments/assets/7eb51373-8e7b-47a5-9b9c-4b97210babc7)---
 
 ## 💡 **About the Project**
 - This workshop helped me learn the basics of HTML and CSS.
