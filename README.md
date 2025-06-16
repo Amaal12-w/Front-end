@@ -13,7 +13,6 @@ The project was part of a **workshop**, and this is what I came up with at the e
 
 ## 🎥 **Project Video**
 > [🔗 Watch the video](put_your_video_link_here)
-https://github.com/user-attachments/assets/cc615b2b-966a-494c-9489-63bbdeaf9317
 ---
 
 ## 🏆 **Certificate**
